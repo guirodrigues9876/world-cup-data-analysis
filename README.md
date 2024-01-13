@@ -1,7 +1,7 @@
 <h1 align="center">World Cup Data Analysis</h1>
 
 <p align="center">
-An analysis of data on the FIFA World Cups
+An analysis of data from the FIFA World Cup. The graph shows the goals accumulated by each team throughout the cups.
 </p>
 
 <p align="center">
