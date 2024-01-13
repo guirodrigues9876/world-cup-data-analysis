@@ -5,7 +5,7 @@ An analysis of data on the FIFA World Cups
 </p>
 
 <p align="center">
-  <img alt="timer project" src="./src/assets/cover.gif" width="100%">
+  <img alt="graphic" src="cover.gif" width="100%">
 </p>
 
 ## 🚀 Technologies
