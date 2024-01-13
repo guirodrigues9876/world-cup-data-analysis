@@ -1,7 +1,12 @@
 <h1 align="center">World Cup Data Analysis</h1>
 
 <p align="center">
-An analysis of data on the FIFA World Cups</p>
+An analysis of data on the FIFA World Cups
+</p>
+
+<p align="center">
+  <img alt="timer project" src="./src/assets/cover.gif" width="100%">
+</p>
 
 ## 🚀 Technologies
 
